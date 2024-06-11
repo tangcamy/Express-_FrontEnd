@@ -1,0 +1,12 @@
+header {
+  overflow: hidden;
+}
+
+.btn-major {
+  background-color: #9b4b4b;
+  color: white;
+}
+
+h1 {
+  text-transform: capitalize;
+}
